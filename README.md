@@ -1,6 +1,6 @@
 # NMA_when_shouldnot
 
-- dataset: updated_dataset.csv
+- Raw dataset: updated_dataset.csv
 - Code
   - Table2, sequential column: TSA_alpha_V5.R
   - Table2, with existing network column: NMA_error_prev.R
